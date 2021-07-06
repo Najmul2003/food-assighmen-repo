@@ -44,7 +44,7 @@ h2{
     background-position: right;
 }
 .experience-item{
-    box-shadow:10px 10px 40px gray;
+    box-shadow:10px 10px 40px rgb(16, 13, 68);
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
@@ -65,9 +65,6 @@ h2{
     border-image: linear-gradient(orange,green); 
     border-image-slice: 1;
 }
-footer p{
-    text-align: center;
-}
 #himu{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -79,4 +76,20 @@ footer p{
 }
 .jack{
     text-align: center;
+}
+.ammu{
+    width: 450px;
+    border-radius: 10px;
+}
+.sami-kakka{
+    display: flex;
+}
+.flex{
+    display: flex;
+    text-align: center;
+}
+#abbu{
+    text-align: center;
+    background-image: url(images/black.jpg);
+    color: aliceblue;
 }
