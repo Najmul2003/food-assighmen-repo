@@ -13,11 +13,11 @@ h2{
     font-size: 30px;
 }
 .orange-color{
-    color: orange;
+    color: rgb(17, 0, 255);
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    padding: ;
 }
 .half-width{
     width: 60%;
@@ -28,16 +28,12 @@ h2{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image:linear-gradient(rgb(245, 5, 77), white);
     padding: 8px 35px;
     font-size: 15px;
     border-radius: 5px;
     font-weight: 700;
     color: black;
-}
-.top-banner{
-    background-image: url(images/Frame\ 58.jpg);
-    background-repeat: no-repeat;
 }
 .My-dream{
    background-image: url(images/Frame\ 57.jpg);
